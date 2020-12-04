@@ -1,4 +1,4 @@
-### Hello!!! 👋 <br/>
+### Hello!!! 👋 \
 
 - 🔭 I’m currently working on ...
   - I'm a final year student looking for an internship <br/>
