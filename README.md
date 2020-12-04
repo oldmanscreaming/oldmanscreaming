@@ -1,20 +1,20 @@
-### Hello!!! 👋
+### Hello!!! 👋 <br/>
 
 - 🔭 I’m currently working on ...
-  - I'm a final year student looking for an internship
+  - I'm a final year student looking for an internship <br/>
 
 - 🌱 I’m currently learning ...
-  - C++ and Computer Graphics! (currently learning opengl)
+  - C++ and Computer Graphics! (currently learning opengl) <br/>
 
 - 📫 How to reach me: ...
-  - reach out here: jalwan.waheed@gmail.com
+  - reach out here: jalwan.waheed@gmail.com <br/>
 
 - 🥇 Achievements: ...
   - WQU Unit 1 : https://wqu.thedataincubator.com/certificate/5206601052979200
-  - Final Year Project: https://github.com/oldmanscreaming/PeerRecSys
+  - Final Year Project: https://github.com/oldmanscreaming/PeerRecSys <br/>
 
 - ⚡ Fun fact: ...
-  - I love RPGs! 🎮
+  - I love RPGs! 🎮 
 
 
 <!--
