@@ -1,7 +1,7 @@
 ### Hello!!! 👋 <br />    <br />   
 
 
-It's exciting to see you here! I've noted some things about myself, have a read!
+It's exciting to see you here! I've noted some things about myself you might find interesting, have a read! <br />  <br />   
 
 
 - 🔭 I’m currently working on ...
